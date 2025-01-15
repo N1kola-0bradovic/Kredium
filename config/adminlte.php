@@ -338,11 +338,11 @@ return [
             'url' => 'report/index',
             'icon' => 'fas fa-fw fa-user',
         ],
-        [
-            'text' => 'Logout',
-            'url' => 'logout',
-            'icon' => 'fas fa-fw fa-user',
-        ],
+        // [
+        //     'text' => 'Logout',
+        //     'url' => 'logout',
+        //     'icon' => 'fas fa-fw fa-user',
+        // ],
         // [
         //     'text' => 'profile',
         //     'url' => 'admin/settings',

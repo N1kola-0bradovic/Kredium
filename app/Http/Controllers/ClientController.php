@@ -71,6 +71,7 @@ class ClientController extends Controller
         
         //Refresh Dashboard
         $clients = $this->clientRepo->all();
+        session()->flash('successMsg', 'Client is deleted!');
         return view('client', compact('clients'));
     }
 }
