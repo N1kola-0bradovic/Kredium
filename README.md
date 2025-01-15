@@ -63,7 +63,7 @@ In View report page we can:
 - See culminated and calculated reports
 - Export the report
 
-### Structure
+## Structure
 
 Code structure contain all the fundamentals of an Laravel app:
 - MVC with blades as pages (AdminLte boilerplate)
