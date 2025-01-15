@@ -8,14 +8,15 @@ Description is roughly as follows:
 The idea is to build a small CRM (Custom Relationship Management) software for a
 company that specializes in connecting their clients with banks and lenders that can
 provide them with two types of loans:
-    1. Cash loan
-    2. Home loan
+- Cash loan
+- Home loan
+
 The business flow is as follows:
-    1. The client calls in and leaves his details over the phone to an adviser
-    2. Adviser takes client's data and enters it into the system
-    3. Adviser fills in loan application data for a loan that the client chose
+- The client calls in and leaves his details over the phone to an adviser
+- Adviser takes client's data and enters it into the system
+- Adviser fills in loan application data for a loan that the client chose
 (cash/home, or both)
-    4. At the end of the day, advisers want to make a report of clients and products
+- At the end of the day, advisers want to make a report of clients and products
 that they have entered in so far
 
 ## Building Project
